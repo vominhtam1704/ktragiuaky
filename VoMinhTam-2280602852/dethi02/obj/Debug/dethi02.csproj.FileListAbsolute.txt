@@ -1,0 +1,15 @@
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\dethi02.exe.config
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\dethi02.exe
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\dethi02.pdb
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\EntityFramework.dll
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\EntityFramework.SqlServer.dll
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\EntityFramework.xml
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\bin\Debug\EntityFramework.SqlServer.xml
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.csproj.AssemblyReference.cache
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.frmSanpham.resources
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.Properties.Resources.resources
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.csproj.GenerateResource.cache
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.csproj.CoreCompileInputs.cache
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.csproj.Up2Date
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.exe
+C:\LaptrinhC#\VoMinhTam-2280602852\dethi02\obj\Debug\dethi02.pdb
